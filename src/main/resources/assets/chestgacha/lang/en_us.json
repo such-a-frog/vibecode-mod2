@@ -1,0 +1,9 @@
+{
+  "tier.chestgacha.common": "Common",
+  "tier.chestgacha.uncommon": "Uncommon",
+  "tier.chestgacha.rare": "Rare",
+  "tier.chestgacha.epic": "Epic",
+  "tier.chestgacha.legendary": "Legendary",
+  "gui.chestgacha.rolling": "Rolling...",
+  "gui.chestgacha.skip": "Click to skip"
+}

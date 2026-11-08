@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "chestgacha",
+	"version": "${version}",
+	"name": "Chest Gacha",
+	"description": "Plays a gacha-style reel animation with a rarity reveal before a chest opens.",
+	"authors": [
+		"You"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.chestgacha.ChestGacha"
+		],
+		"client": [
+			"com.example.chestgacha.client.ChestGachaClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

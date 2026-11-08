@@ -1,0 +1,9 @@
+{
+  "tier.chestgacha.common": "Gewöhnlich",
+  "tier.chestgacha.uncommon": "Ungewöhnlich",
+  "tier.chestgacha.rare": "Selten",
+  "tier.chestgacha.epic": "Episch",
+  "tier.chestgacha.legendary": "Legendär",
+  "gui.chestgacha.rolling": "Wird gezogen...",
+  "gui.chestgacha.skip": "Klicken zum Überspringen"
+}
